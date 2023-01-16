@@ -6,7 +6,7 @@ I am an amateur developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://t.me/lypoka)
+- :mailbox:How to reach me: [![Telegram](https://t.me/lypoka)
 
 
 :hammer_and_wrench: Languages and Tools :
