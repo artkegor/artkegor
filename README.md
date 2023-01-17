@@ -4,7 +4,7 @@ I am an amateur developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems and learn new things.
 
-- :mailbox: How to reach me: [Telegram](https://t.me/lypoka)
+- :mailbox: How to reach me: [![Telegram Badge](https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667](https://t.me/lypoka)
 
 
 ---
