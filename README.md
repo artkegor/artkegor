@@ -22,4 +22,4 @@ I am an amateur developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artkegor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=artkegor&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=artkegor&show_icons=true&theme=dark&icon_color=f78a00)
