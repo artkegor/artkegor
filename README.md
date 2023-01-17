@@ -17,5 +17,6 @@ I am an amateur developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artkegor&theme=dark)](https://git.io/streak-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artkegor)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artkegor)](https://github.com/anuraghazra/github-readme-stats)
   
