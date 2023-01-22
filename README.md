@@ -25,4 +25,4 @@ I am an amateur developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artkegor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
  
-[comment]: <> github-readme-stats-sigma-five.vercel.app)
+[//]: <> (github-readme-stats-sigma-five.vercel.app)
