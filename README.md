@@ -5,7 +5,7 @@ I am an amateur developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox: How to reach me: [Telegram](https://t.me/lypoka)
 
-- 👨‍💻 Good friends: [CatDev](https://github.com/whynotlol1), [XSafter](https://github.com/xsafter), [Su4Sasha](https://github.com/su4sasha).
+- 🙌: Good friends: [CatDev](https://github.com/whynotlol1), [XSafter](https://github.com/xsafter), [Su4Sasha](https://github.com/su4sasha).
 
 
 ---
