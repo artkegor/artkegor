@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 I am an amateur developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg, Russia.
 
-- :zap: In my free time, I solve problems and learn new things.
+- :zap: In my free time, I solve problems and learn new things
 
 - :mailbox: How to reach me: [Telegram](https://t.me/lypoka)
 
