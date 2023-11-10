@@ -1,10 +1,10 @@
-# contacts:
-telegram - @lypoka
-discord - @ykolko
+# contacts
+  telegram - @lypoka
+  discord - @ykolko
 ---
 # about me
-java/android, python
-ctf "[лыпока)](https://ctftime.org/team/269614)" member
+  java/android, python
+  ctf "[лыпока)](https://ctftime.org/team/269614)" member
 ---  
   
 ### :fire: My Stats :
