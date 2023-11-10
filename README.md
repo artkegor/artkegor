@@ -1,8 +1,8 @@
-#contacts:
+# contacts:
 telegram - @lypoka
 discord - @ykolko
 ---
-#about me
+# about me
 java/android, python
 ctf "[лыпока)](https://ctftime.org/team/269614)" member
 ---  
