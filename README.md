@@ -1,11 +1,13 @@
-# contacts
-  telegram - @lypoka
-  discord - @ykolko
----
-# about me
-  java/android, python
-  ctf ["лыпока)"](https://ctftime.org/team/269614) member
----  
+<h1 style="color:blue;">contacts</h1>
+
+- telegram - @lypoka
+- discord - @ykolko
+
+<h1 style="color:blue;">about me</h1>
+
+- java/android, python
+- ctf "[лыпока)](https://ctftime.org/team/269614)" member
+
   
 ### :fire: My Stats :
   ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=artkegor&show_icons=true&theme=dark&icon_color=f78a00)
