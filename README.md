@@ -6,7 +6,7 @@
 <h1 style="color:blue;">about me:</h1>
 
 - java/android, python
-- [лыпока)](https://ctftime.org/team/269614) CTF member
+- CTF [лыпока)](https://ctftime.org/team/269614) member
 
   
 <h1 style="color:blue;">my stats:</h1>
