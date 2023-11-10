@@ -1,9 +1,9 @@
-<h1 style="color:blue;">contacts</h1>
+<h1 style="color:blue;">contacts:</h1>
 
 - telegram - @lypoka
 - discord - @ykolko
 
-<h1 style="color:blue;">about me</h1>
+<h1 style="color:blue;">about me:</h1>
 
 - java/android, python
 - ctf "[лыпока)](https://ctftime.org/team/269614)" member
