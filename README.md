@@ -9,7 +9,7 @@
 - ctf ["лыпока)"](https://ctftime.org/team/269614) member
 
   
-### :fire: My Stats :
+<h1 style="color:blue;">my stats:</h1>
   ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=artkegor&show_icons=true&theme=dark&icon_color=f78a00)
  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artkegor&theme=dark)](https://git.io/streak-stats)
