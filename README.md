@@ -13,7 +13,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=artkegor&show_icons=true&theme=dark&icon_color=f78a00)
  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=artkegor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
