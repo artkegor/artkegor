@@ -2,6 +2,7 @@
 
 - telegram - [@lypoka](https://t.me/lypoka)
 - discord - [@ykolko](https://discordapp.com/users/696050703302525048)
+- donate https://www.buymeacoffee.com/ykolko
 
 <h1 style="color:blue;">about me:</h1>
 
