@@ -9,4 +9,5 @@
 - CTF [лыпока)](https://ctftime.org/team/269614) member
 
 <h1 style="color:blue;">donate:</h1>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ykolko)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ykolko){:target="_blank"}
+
