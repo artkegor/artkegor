@@ -5,7 +5,7 @@
 
 <h1 style="color:blue;">about me:</h1>
 
-- java/android, python
+- java/android, python(telebot, qt, flask)
 - CTF [лыпока)](https://ctftime.org/team/269614) member (reverse + pwn)
 
 <h1 style="color:blue;">donate:</h1>
