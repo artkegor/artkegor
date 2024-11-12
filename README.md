@@ -1,6 +1,6 @@
 <h1 style="color:blue;">contacts:</h1>
 
-- telegram - [@lypoka](https://t.me/lypoka)
+- telegram - [@artamonooov](https://t.me/artamonooov)
 - discord - [@ykolko](https://discordapp.com/users/696050703302525048)
 
 <h1 style="color:blue;">about me:</h1>
