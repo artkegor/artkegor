@@ -1,10 +1,8 @@
 <h1 style="color:blue;">about me:</h1>
 
-- <h2 style="color:blue;">python:</h2>
-  - telegram (telebot+telethon)
-  - web (flask+selenium)
-- <h2 style="color:blue;">java:</h2>
-  - android 
+### Python:
+- Telegram (Telebot+Telethon)
+- Web (Flask+Selenium)
 
 <h1 style="color:blue;">stats:</h1>
 
