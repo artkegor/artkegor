@@ -1,13 +1,13 @@
-## about me
+# about me
 
-### python:
+## python:
 - Telegram (Telebot + Telethon)
 - Web (Flask + Selenium)
 
-### java:
+## java:
 - Android 
 
-## stats
+# stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=artkegor&theme=material-palenight)](https://github.com/artkegor)
 
