@@ -1,8 +1,11 @@
 <h1 style="color:blue;">about me:</h1>
 
-### Python:
+### python:
 - Telegram (Telebot+Telethon)
 - Web (Flask+Selenium)
+
+### java:
+- Android 
 
 <h1 style="color:blue;">stats:</h1>
 
