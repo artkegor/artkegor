@@ -1,4 +1,4 @@
-<h1 style="color:blue;">about me:</h1>
+## about me
 
 ### python:
 - Telegram (Telebot + Telethon)
@@ -7,7 +7,7 @@
 ### java:
 - Android 
 
-<h1 style="color:blue;">stats:</h1>
+## stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=artkegor&theme=material-palenight)](https://github.com/artkegor)
 
